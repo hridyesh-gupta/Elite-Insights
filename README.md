@@ -1,4 +1,4 @@
-Welcome to NewsApp – your one-stop solution for staying updated with the latest news headlines from around the globe! This sleek, modern web application is built using HTML, CSS, and JavaScript, and powered by the robust News API.
+Welcome to Elite-Insights your one-stop solution for staying updated with the latest news headlines from around the globe! This sleek, modern web application is built using HTML, CSS, and JavaScript, and powered by the robust News API.
 
 # Features:
 - Real-Time News Updates: Get the latest news headlines from various categories, including technology, sports, business, entertainment, and more.
